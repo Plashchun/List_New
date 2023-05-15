@@ -60,4 +60,4 @@ for i in text:
 if digit_counter == 0:
     print("number not found")
 else:
-   print(digit_counter)
+    print(digit_counter)
