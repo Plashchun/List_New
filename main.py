@@ -27,6 +27,14 @@ for elem in numbers:
     if elem > 5:
      print(elem)
 
+A = []
+C = []
+for i in range(5):
+    number = int(input(f'Enter number #{i}:'))
+    C.append(number)
+    if number > 5:
+        print(number)
+
 #6
 numbers_one = int(input("Enter an item: "))
 numbers_one = [numbers_one]
