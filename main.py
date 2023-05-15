@@ -22,10 +22,6 @@ rev = num[::-1]
 print(rev)
 
 #5
-numbers = [int(input("Enter an item: ")) for _ in range(5)]
-for elem in numbers:
-    if elem > 5:
-     print(elem)
 
 A = []
 C = []
